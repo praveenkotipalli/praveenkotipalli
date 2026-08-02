@@ -1,3 +1,3 @@
 <img src="./assets/image.png" width="900">
 
-![Demo](assets/gif.mp4)
+![Demo](assets/vid.gif)
