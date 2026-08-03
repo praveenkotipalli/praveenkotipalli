@@ -49,31 +49,49 @@ Every problem deserves a better solution.
 
 ---
 
-## > tech_stack
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-```yaml
-Frontend:
-  - React
-  - Next.js
-  - TypeScript
-  - TailwindCSS
+MODULE STATUS
 
-Backend:
-  - Node.js
-  - Express
-  - Python
-  - Java
+◉ Frontend
 
-Database:
-  - PostgreSQL
-  - MongoDB
-  - Firebase
+    React
+    Next.js
+    TypeScript
 
-Cloud:
-  - Docker
-  - AWS
-  - Vercel
-```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+◉ Backend
+
+    Node.js
+    Express
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+◉ Artificial Intelligence
+
+    Claude
+    Gemini
+    OpenAI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+◉ Database
+
+    PostgreSQL
+    MongoDB
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+◉ Deployment
+
+    Docker
+    AWS
+    Vercel
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STATUS : ONLINE
 
 
 ---
