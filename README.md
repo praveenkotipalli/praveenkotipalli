@@ -57,16 +57,18 @@ Every problem deserves a better solution.
 # > current_mission
 
 ```text
-███████████████████████████░░░░░░░░░░░░ 65%
 
-✔ Build Orbit
-✔ AI Resume Analyzer
-✔ AI Job Matching
-✔ Tech Events Platform
+✔ Get a job - 2025 (got it on Dec 31st 2025 mid night)
+ 
 
-□ Reach 1000+ Developers
-□ Contribute to Open Source
-□ Ship Products Every Month
+□ Tech Larp, make a product and mark yourself as a ceo/founder - 2026 (made ORBIT-A Job Portal on Sep 2026)
+□ Get 1000+ User on your app - Sep 2026
+□ Clear loans - 2026
+□ Buy a house - 2026
+□ Get a girl/life (mission impossible) - 2026
+□ Earn more than 1.5 Lakhs/Month - 2026
+□ Plan a international trip in next 2 years - 2026
+
 ```
 
 ---
