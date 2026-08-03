@@ -49,56 +49,32 @@ Every problem deserves a better solution.
 
 ---
 
-## > load_modules()
+## > tech_stack
 
-```text
-Loading frontend............. ███████████ 100%
-Loading backend.............. ███████████ 100%
-Loading databases............ ███████████ 100%
-Loading AI................... ███████████ 100%
-Loading cloud................ ███████████ 100%
+```yaml
+Frontend:
+  - React
+  - Next.js
+  - TypeScript
+  - TailwindCSS
 
-System Ready.
+Backend:
+  - Node.js
+  - Express
+  - Python
+  - Java
+
+Database:
+  - PostgreSQL
+  - MongoDB
+  - Firebase
+
+Cloud:
+  - Docker
+  - AWS
+  - Vercel
 ```
 
-<table>
-<tr>
-<td>
-
-### 🖥 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite"/>
-
-</td>
-
-<td>
-
-### ⚙ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase"/>
-
-</td>
-
-<td>
-
-### ☁ AI / Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel"/>
-
-</td>
-</tr>
-
-</table>
 
 ---
 
