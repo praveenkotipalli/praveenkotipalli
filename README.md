@@ -49,33 +49,56 @@ Every problem deserves a better solution.
 
 ---
 
-# > load_modules()
+## > load_modules()
 
-<div align="center">
+```text
+Loading frontend............. ███████████ 100%
+Loading backend.............. ███████████ 100%
+Loading databases............ ███████████ 100%
+Loading AI................... ███████████ 100%
+Loading cloud................ ███████████ 100%
 
-### Frontend
+System Ready.
+```
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css" />
+<table>
+<tr>
+<td>
 
-<br><br>
+### 🖥 Frontend
 
-### Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
+</td>
 
-<br><br>
+<td>
 
-### Database
+### ⚙ Backend
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java"/>
 
-<br><br>
+</td>
+</tr>
 
-### AI • Cloud • DevOps
+<tr>
+<td>
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel" />
+### 🗄 Database
 
-</div>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase"/>
+
+</td>
+
+<td>
+
+### ☁ AI / Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel"/>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
