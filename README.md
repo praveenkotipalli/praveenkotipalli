@@ -206,13 +206,13 @@ Modern headless commerce platform built with scalable architecture.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenkotipalli&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkotipalli&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=praveenkotipalli&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -222,7 +222,7 @@ Modern headless commerce platform built with scalable architecture.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=6">
+<img src="https://github-profile-trophy.vercel.app/?username=praveenkotipalli&theme=matrix&no-frame=true&row=1&column=6">
 
 </div>
 
@@ -253,19 +253,19 @@ Mission:        Build products used by millions.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/praveenkotipalli">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/praveenkumarkotipalli">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:2200032132cseh@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://praveen.software">
 <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge">
 </a>
 
