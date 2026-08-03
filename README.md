@@ -42,56 +42,13 @@ Every problem deserves a better solution.
 
 ---
 
-## > load_modules()
+<h2 align="center">⚡ Tech Arsenal</h2>
 
-```text
-Loading frontend............. ███████████ 100%
-Loading backend.............. ███████████ 100%
-Loading databases............ ███████████ 100%
-Loading AI................... ███████████ 100%
-Loading cloud................ ███████████ 100%
+<p align="center">
 
-System Ready.
-```
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,nodejs,express,python,java,postgres,mongodb,mysql,firebase,supabase,docker,aws,git,github,vercel&perline=10" />
 
-<table>
-<tr>
-<td>
-
-### 🖥 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite"/>
-
-</td>
-
-<td>
-
-### ⚙ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase"/>
-
-</td>
-
-<td>
-
-### ☁ AI / Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel"/>
-
-</td>
-</tr>
-
-</table>
+</p>
 
 ---
 
