@@ -4,15 +4,8 @@
 
 # ᴘʀᴀᴠᴇᴇɴ ᴋᴏᴛɪᴘᴀʟʟɪ
 
-### `Full Stack Developer` • `AI Product Builder` • `Open Source`
+### `Software Developer` • `Salesforce Developer` • `WHAT NOT?!`
 
-```text
-> boot sequence initialized...
-> loading developer profile...
-> orbit detected...
-> ai modules loaded...
-> status: online ██████████ 100%
-```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+products+that+solve+real+problems.;Turning+ideas+into+software.;Always+asking+%22What+if+this+could+be+better%3F%22;Currently+building+Orbit." />
 
@@ -49,50 +42,56 @@ Every problem deserves a better solution.
 
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## > load_modules()
 
-MODULE STATUS
+```text
+Loading frontend............. ███████████ 100%
+Loading backend.............. ███████████ 100%
+Loading databases............ ███████████ 100%
+Loading AI................... ███████████ 100%
+Loading cloud................ ███████████ 100%
 
-◉ Frontend
+System Ready.
+```
 
-    React
-    Next.js
-    TypeScript
+<table>
+<tr>
+<td>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🖥 Frontend
 
-◉ Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite"/>
 
-    Node.js
-    Express
+</td>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<td>
 
-◉ Artificial Intelligence
+### ⚙ Backend
 
-    Claude
-    Gemini
-    OpenAI
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java"/>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</td>
+</tr>
 
-◉ Database
+<tr>
+<td>
 
-    PostgreSQL
-    MongoDB
+### 🗄 Database
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase"/>
 
-◉ Deployment
+</td>
 
-    Docker
-    AWS
-    Vercel
+<td>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### ☁ AI / Cloud
 
-STATUS : ONLINE
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel"/>
 
+</td>
+</tr>
+
+</table>
 
 ---
 
