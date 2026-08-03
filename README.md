@@ -38,17 +38,19 @@ Every problem deserves a better solution.
 
 ---
 
+<h2 align="center">⚡ Technologies</h2>
+
 <img src="assets/image.png" width="100%">
 
 ---
 
-<h2 align="center">⚡ Tech Arsenal</h2>
 
-<p align="center">
+
+<!-- <p align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,nodejs,express,python,java,postgres,mongodb,mysql,firebase,supabase,docker,aws,git,github,vercel&perline=10" />
 
-</p>
+</p> -->
 
 ---
 
